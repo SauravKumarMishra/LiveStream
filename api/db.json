@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "streamName": "An Awesome Stream",
+      "streamDescription": "You Don't want to miss this action.",
+      "id": 1
+    },
+    {
+      "streamName": "PubG Streaming",
+      "streamDescription": "Use VPN to watch this.",
+      "id": 2
+    },
+    {
+      "streamName": "Another Stream",
+      "streamDescription": "Testing it out.",
+      "id": 4
+    },
+    {
+      "streamName": "Watch me",
+      "streamDescription": "Watch me son!",
+      "id": 5
+    },
+    {
+      "streamName": "This stream is created by me.",
+      "streamDescription": "Use VPN to watch this.",
+      "userId": "100436499172276868616",
+      "id": 6
+    }
+  ]
+}
